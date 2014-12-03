@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">BronToMaps</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Bookmaster General</string>
+    <string name="strMainText">Search For Books!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="button">Buscar</string>
+    <string name="hint">Título/Autor</string>
+    <string name="activity_details">Detalles del libro</string>
 
 </resources>
