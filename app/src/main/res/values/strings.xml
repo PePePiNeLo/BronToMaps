@@ -7,5 +7,6 @@
     <string name="button">Buscar</string>
     <string name="hint">Título/Autor</string>
     <string name="activity_details">Detalles del libro</string>
+    <string name="imgDesc">image</string>
 
 </resources>
